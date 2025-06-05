@@ -1,0 +1,15 @@
+aioquic==1.2.0
+attrs==25.3.0
+certifi==2025.4.26
+cffi==1.17.1
+cryptography==45.0.3
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pycparser==2.22
+pylsqpack==0.3.22
+pyOpenSSL==25.1.0
+service-identity==24.2.0
+typing_extensions==4.14.0
+
+pytest==7.3.1
+pytest-asyncio==0.21.0
